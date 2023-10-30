@@ -20,3 +20,8 @@
 حال فایل .gitignore را درست کردیم تا پوشه اسکرین شات های مربوط به گزارش را در نظر نگیرد
 ![Screenshot from 2023-10-30 22-13-59](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/60fecf2a-1ed7-4ee0-a28b-f25849d48340)
 ![Screenshot from 2023-10-30 22-14-08](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/00d0bc4a-5085-4e42-b9bc-502411f38121)
+حال یک branch به نام dev ایجاد می‌کنیم و سپس پایپ لاین اولیه خود را در آن اضافه می‌کنیم و در انتها تغییرات را مرج می کنیم
+
+![Screenshot from 2023-10-30 22-24-25](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/76c4aec3-1b83-484a-b0c0-45af52d51e23)
+![Screenshot from 2023-10-30 22-22-48](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/bae19125-b6c3-43ed-9e42-e0c0326d50bf)
+![Screenshot from 2023-10-30 22-21-31](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/2efa0b5a-bae6-457f-b83a-08fe2324cb7e)
