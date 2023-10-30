@@ -25,3 +25,9 @@
 ![Screenshot from 2023-10-30 22-24-25](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/76c4aec3-1b83-484a-b0c0-45af52d51e23)
 ![Screenshot from 2023-10-30 22-22-48](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/bae19125-b6c3-43ed-9e42-e0c0326d50bf)
 ![Screenshot from 2023-10-30 22-21-31](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/2efa0b5a-bae6-457f-b83a-08fe2324cb7e)
+حال شرایطی برای به وجود آمدن conflict اعمال میکنیم. برای این کار قبل از این که main خود را آپدیت کنیم ابتدا یکی از کدهایی که میدونیم روی main وجود داره رو تغییر میدیم روی branch مورد نظر. بعد checkout می کنیم روی main و git pull میزنیم. سپس به برنج مورد نظر میریم و برنچ main رو باهاش مرج میکنیم. این کار کانلفیکت ایجاد میکنه. تصاویر این پروسه رو در عکس های زیر میتونید مشاهده کنید.
+![Screenshot from 2023-10-30 22-40-53](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/dda89997-816e-4ae0-9cc9-6c5989966ed4)
+![Screenshot from 2023-10-30 22-39-00](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/13716480-1069-4c04-b35e-e83d3f21afaa)
+![Screenshot from 2023-10-30 22-38-55](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/49981028-fb96-4ef2-a431-d72ad0a94c56)
+![Screenshot from 2023-10-30 22-38-46](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/9e453b64-3c68-452f-bbfc-065127ce1a18)
+![Screenshot from 2023-10-30 22-38-42](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/7b9d4375-29c7-4f89-a492-85a7714625ad)
