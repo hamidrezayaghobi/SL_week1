@@ -1,7 +1,7 @@
 # آزمایشگاه مهندسی نرم‌افزار: آزمایش اول
 اعضای گروه: علیرضا حیدری - حمیدرضا یعقوبی
 
-#گزارش
+# گزارش
 ابتدا یک ریپازیتوری با نام SE_week1 درست کردیم.
 ![Screenshot from 2023-10-30 21-38-21](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/798c4d3e-9bca-4ef4-a16e-82e49fd3462d)
 
@@ -17,3 +17,6 @@
 ![Screenshot from 2023-10-30 21-57-19](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/a6318dfa-fb17-4c15-a770-897ceeb59851)
 حال کافیست تا نگاهی به پوشه .git بندازیم. در این پوشه اطلاعات مخزنمون همچون branch های موجود وجود دارد.
 ![Screenshot from 2023-10-30 22-00-21](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/32144a02-337c-4cd9-b3fb-4872b84b6b6b)
+حال فایل .gitignore را درست کردیم تا پوشه اسکرین شات های مربوط به گزارش را در نظر نگیرد
+![Screenshot from 2023-10-30 22-13-59](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/60fecf2a-1ed7-4ee0-a28b-f25849d48340)
+![Screenshot from 2023-10-30 22-14-08](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/00d0bc4a-5085-4e42-b9bc-502411f38121)
