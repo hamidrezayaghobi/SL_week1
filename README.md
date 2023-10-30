@@ -31,7 +31,9 @@
 ![Screenshot from 2023-10-30 22-38-55](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/49981028-fb96-4ef2-a431-d72ad0a94c56)
 ![Screenshot from 2023-10-30 22-38-46](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/9e453b64-3c68-452f-bbfc-065127ce1a18)
 ![Screenshot from 2023-10-30 22-38-42](https://github.com/hamidrezayaghobi/SL_week1/assets/59170724/7b9d4375-29c7-4f89-a492-85a7714625ad)
-
+در ادامه, به پروژه ماژول های divide و multiply را اضافه می‌کنیم و در طی چندین کامیت و اضافه و مرج کردن برنچ هایی برای logging و floating support, کد را تکمیل می‌کنیم. پروسه کلی در عکس های زیر قابل مشاهده است:
+SL_week1/screenshots/
+![Screenshot Description](https://raw.githubusercontent.com/hamidrezayaghobi/SL_week1/master/screenshots/added_func.png)
 
 # پرسش
 
